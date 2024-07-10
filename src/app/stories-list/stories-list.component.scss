@@ -1,0 +1,18 @@
+.headline {
+    color:#0d6efd;
+    font-size:x-large;
+}
+
+.pagination {
+    float: inline-end;
+
+    .page {
+        padding-top: 0.4rem;
+        padding-right: 1rem;
+        font-size: medium;
+    }
+}
+
+.container-fluid {
+    padding: 2rem;
+}
